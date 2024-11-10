@@ -78,7 +78,11 @@ Create, update, and delete tasks: Use the intuitive UI to manage tasks efficient
 <img src="https://github.com/user-attachments/assets/86a505f0-c695-459d-89dc-6378f01e55d0" alt="Image 2" style="width: 400px; height: auto;"> 
 <img src="https://github.com/user-attachments/assets/9d8e4724-5e32-413e-8287-013e5317fbd9" alt="Image 3" style="width: 400px; height: auto;">
 <img src="https://github.com/user-attachments/assets/7cc44ae9-fdf6-46ab-b6f6-fe55cd378def" alt="Image 4" style="width: 400px; height: auto;">
-<img src="https://github.com/user-attachments/assets/4c6cbcd6-8429-417f-b1ae-36f4c26c92b9" alt="Image 5" style="width: 400px; height: auto;">
+<!-- <img src="https://github.com/user-attachments/assets/4c6cbcd6-8429-417f-b1ae-36f4c26c92b9" alt="Image 5" style="width: 400px; height: auto;">  -->
+<img src="https://github.com/user-attachments/assets/e8605c67-5cab-4f5d-97b0-b7c84bda16f1" alt="Image 5" style="width: 400px; height: auto;"> 
+<img src="https://github.com/user-attachments/assets/d60b967c-93d1-4464-8fb8-e67e0181b548" alt="Image 6" style="width: 400px; height: auto;">
+
+
 
 
 
